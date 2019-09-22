@@ -1,0 +1,66 @@
+-------------------------------------------------------------------------------
+There are messages associated with the following module(s):
+-------------------------------------------------------------------------------
+
+anaconda/5.0.0-py36:
+    This module is a contribution from the Poldrack Lab. For questions
+    and support, please see https://github.com/poldracklab/lmod_modules
+
+-------------------------------------------------------------------------------
+
+loading annotations into memory...
+Done (t=14.08s)
+creating index...
+index created!
+CUDA available: True
+Num training images: 118287
+torch.Size([968938]) torch.Size([968938])
+accuracy tensor(0., device='cuda:0')
+Epoch: 0 | Iteration: 0 | Classification loss: 935.10980 | Regression loss: 1.00602 | Running loss: 936.11584
+torch.Size([927907]) torch.Size([927907])
+accuracy tensor(0., device='cuda:0')
+Epoch: 0 | Iteration: 1 | Classification loss: 1076.74573 | Regression loss: 1.06204 | Running loss: 1006.96179
+torch.Size([968746]) torch.Size([968746])
+accuracy tensor(0., device='cuda:0')
+Epoch: 1 | Iteration: 0 | Classification loss: 642.36310 | Regression loss: 0.92317 | Running loss: 885.73661
+invalid argument 2: Input tensor must have same size as output tensor apart from the specified dimension at /pytorch/aten/src/THC/generic/THCTensorScatterGather.cu:27
+invalid argument 2: Input tensor must have same size as output tensor apart from the specified dimension at /pytorch/aten/src/THC/generic/THCTensorScatterGather.cu:27
+torch.Size([667607]) torch.Size([667607])
+accuracy tensor(0., device='cuda:0')
+Epoch: 2 | Iteration: 1 | Classification loss: 861.91003 | Regression loss: 0.93693 | Running loss: 880.01421
+torch.Size([968710]) torch.Size([968710])
+accuracy tensor(0., device='cuda:0')
+Epoch: 3 | Iteration: 0 | Classification loss: 538.02771 | Regression loss: 1.04242 | Running loss: 811.82539
+invalid argument 2: Input tensor must have same size as output tensor apart from the specified dimension at /pytorch/aten/src/THC/generic/THCTensorScatterGather.cu:27
+torch.Size([968792]) torch.Size([968792])
+accuracy tensor(0., device='cuda:0')
+Epoch: 4 | Iteration: 0 | Classification loss: 658.06177 | Regression loss: 1.05709 | Running loss: 786.37430
+torch.Size([968791]) torch.Size([968791])
+accuracy tensor(0., device='cuda:0')
+Epoch: 4 | Iteration: 1 | Classification loss: 903.65320 | Regression loss: 0.90653 | Running loss: 803.25793
+torch.Size([1001735]) torch.Size([1001735])
+accuracy tensor(0., device='cuda:0')
+Epoch: 5 | Iteration: 0 | Classification loss: 971.57147 | Regression loss: 0.97861 | Running loss: 824.41946
+torch.Size([1139433]) torch.Size([1139433])
+accuracy tensor(0., device='cuda:0')
+Epoch: 5 | Iteration: 1 | Classification loss: 435.54861 | Regression loss: 1.08198 | Running loss: 781.33180
+torch.Size([968909]) torch.Size([968909])
+accuracy tensor(0., device='cuda:0')
+Epoch: 6 | Iteration: 0 | Classification loss: 787.02728 | Regression loss: 1.04156 | Running loss: 782.00551
+torch.Size([868349]) torch.Size([868349])
+accuracy tensor(0., device='cuda:0')
+Epoch: 6 | Iteration: 1 | Classification loss: 1312.26819 | Regression loss: 0.91044 | Running loss: 830.29397
+invalid argument 2: Input tensor must have same size as output tensor apart from the specified dimension at /pytorch/aten/src/THC/generic/THCTensorScatterGather.cu:27
+torch.Size([712499]) torch.Size([712499])
+accuracy tensor(0., device='cuda:0')
+Epoch: 7 | Iteration: 1 | Classification loss: 194.53783 | Regression loss: 0.90977 | Running loss: 777.39010
+torch.Size([1102656]) torch.Size([1102656])
+accuracy tensor(0., device='cuda:0')
+Epoch: 8 | Iteration: 0 | Classification loss: 2239.16870 | Regression loss: 0.94537 | Running loss: 889.90733
+torch.Size([968991]) torch.Size([968991])
+accuracy tensor(0., device='cuda:0')
+Epoch: 8 | Iteration: 1 | Classification loss: 983.86731 | Regression loss: 0.91533 | Running loss: 896.68414
+torch.Size([667710]) torch.Size([667710])
+accuracy tensor(0., device='cuda:0')
+Epoch: 9 | Iteration: 0 | Classification loss: 986.12500 | Regression loss: 0.93468 | Running loss: 902.70917
+invalid argument 2: Input tensor must have same size as output tensor apart from the specified dimension at /pytorch/aten/src/THC/generic/THCTensorScatterGather.cu:27

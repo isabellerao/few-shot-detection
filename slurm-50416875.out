@@ -1,0 +1,551 @@
+-------------------------------------------------------------------------------
+There are messages associated with the following module(s):
+-------------------------------------------------------------------------------
+
+anaconda/5.0.0-py36:
+    This module is a contribution from the Poldrack Lab. For questions
+    and support, please see https://github.com/poldracklab/lmod_modules
+
+-------------------------------------------------------------------------------
+
+/home/users/isarao/.local/lib/python3.6/site-packages/numpy/core/fromnumeric.py:3257: RuntimeWarning: Mean of empty slice.
+  out=out, **kwargs)
+/home/users/isarao/.local/lib/python3.6/site-packages/numpy/core/_methods.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+loading annotations into memory...
+Done (t=14.07s)
+creating index...
+index created!
+CUDA available: True
+Num training images: 118287
+tensor(0., device='cuda:0') tensor(2.9993, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 0 | Iteration: 0 | Classification loss: 416.99051 | Regression loss: 1.04909 | Running loss: 418.03961
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 0 | Iteration: 1 | Classification loss: 1061.22925 | Regression loss: 1.07746 | Running loss: 740.17319
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 1 | Iteration: 0 | Classification loss: 1076.01514 | Regression loss: 0.89311 | Running loss: 852.41819
+tensor(0., device='cuda:0') tensor(2.9998, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 1 | Iteration: 1 | Classification loss: 1219.05322 | Regression loss: 1.04344 | Running loss: 944.33781
+tensor(0., device='cuda:0') tensor(2.9998, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 2 | Iteration: 0 | Classification loss: 1263.27087 | Regression loss: 0.89585 | Running loss: 1008.30360
+tensor(0., device='cuda:0') tensor(2.9996, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 2 | Iteration: 1 | Classification loss: 690.21313 | Regression loss: 1.07955 | Running loss: 955.46844
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 3 | Iteration: 0 | Classification loss: 1037.68286 | Regression loss: 1.03455 | Running loss: 967.36115
+tensor(0., device='cuda:0') tensor(2.9993, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 3 | Iteration: 1 | Classification loss: 446.28909 | Regression loss: 0.87884 | Running loss: 902.33700
+tensor(0., device='cuda:0') tensor(2.9993, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 4 | Iteration: 0 | Classification loss: 498.44153 | Regression loss: 1.03435 | Running loss: 857.57466
+tensor(0., device='cuda:0') tensor(2.9996, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 4 | Iteration: 1 | Classification loss: 817.66022 | Regression loss: 1.01258 | Running loss: 853.68447
+tensor(0., device='cuda:0') tensor(2.9996, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 5 | Iteration: 0 | Classification loss: 798.32349 | Regression loss: 0.89776 | Running loss: 848.73327
+tensor(0., device='cuda:0') tensor(2.9995, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 5 | Iteration: 1 | Classification loss: 632.78510 | Regression loss: 1.07302 | Running loss: 830.82700
+tensor(0., device='cuda:0') tensor(2.9995, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 6 | Iteration: 0 | Classification loss: 663.61328 | Regression loss: 1.02141 | Running loss: 818.04298
+tensor(0., device='cuda:0') tensor(2.9996, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 6 | Iteration: 1 | Classification loss: 787.23395 | Regression loss: 1.04945 | Running loss: 815.91730
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 7 | Iteration: 0 | Classification loss: 994.06018 | Regression loss: 1.08596 | Running loss: 827.86588
+tensor(0., device='cuda:0') tensor(2.9998, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 7 | Iteration: 1 | Classification loss: 1079.40222 | Regression loss: 0.99121 | Running loss: 843.64886
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 8 | Iteration: 0 | Classification loss: 841.49817 | Regression loss: 0.96877 | Running loss: 843.57933
+tensor(0., device='cuda:0') tensor(2.9996, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 8 | Iteration: 1 | Classification loss: 758.92859 | Regression loss: 1.02119 | Running loss: 838.93324
+Epoch     8: reducing learning rate of group 0 to 1.0000e-06.
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 9 | Iteration: 0 | Classification loss: 917.92725 | Regression loss: 1.02504 | Running loss: 843.14477
+tensor(0., device='cuda:0') tensor(2.9995, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 9 | Iteration: 1 | Classification loss: 796.88513 | Regression loss: 0.74541 | Running loss: 840.86906
+tensor(0., device='cuda:0') tensor(2.9998, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 10 | Iteration: 0 | Classification loss: 1196.27747 | Regression loss: 1.02557 | Running loss: 857.84210
+tensor(0., device='cuda:0') tensor(2.9994, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 10 | Iteration: 1 | Classification loss: 436.68011 | Regression loss: 1.07145 | Running loss: 838.74708
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 11 | Iteration: 0 | Classification loss: 986.33856 | Regression loss: 1.08559 | Running loss: 845.21130
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 11 | Iteration: 1 | Classification loss: 796.20178 | Regression loss: 0.88309 | Running loss: 843.20603
+tensor(0., device='cuda:0') tensor(2.9991, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 12 | Iteration: 0 | Classification loss: 424.34412 | Regression loss: 1.05201 | Running loss: 826.49364
+tensor(0., device='cuda:0') tensor(2.9994, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 12 | Iteration: 1 | Classification loss: 504.37488 | Regression loss: 1.06935 | Running loss: 814.14558
+tensor(0., device='cuda:0') tensor(2.9987, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 13 | Iteration: 0 | Classification loss: 281.84192 | Regression loss: 1.08405 | Running loss: 794.47078
+tensor(0., device='cuda:0') tensor(2.9993, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 13 | Iteration: 1 | Classification loss: 540.77881 | Regression loss: 1.06263 | Running loss: 785.44830
+tensor(0., device='cuda:0') tensor(2.9992, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 14 | Iteration: 0 | Classification loss: 393.63766 | Regression loss: 1.04552 | Running loss: 771.97365
+tensor(0., device='cuda:0') tensor(2.9996, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 14 | Iteration: 1 | Classification loss: 837.07739 | Regression loss: 0.90741 | Running loss: 774.17402
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 15 | Iteration: 0 | Classification loss: 1144.86023 | Regression loss: 0.84576 | Running loss: 786.15892
+tensor(0., device='cuda:0') tensor(2.9998, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 15 | Iteration: 1 | Classification loss: 1816.47168 | Regression loss: 0.77594 | Running loss: 818.38044
+
+tensor(0., device='cuda:0') tensor(2.9995, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 16 | Iteration: 1 | Classification loss: 563.39618 | Regression loss: 1.07790 | Running loss: 810.68631
+tensor(0., device='cuda:0') tensor(2.9995, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 17 | Iteration: 0 | Classification loss: 646.59961 | Regression loss: 1.02176 | Running loss: 805.89028
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 17 | Iteration: 1 | Classification loss: 963.71472 | Regression loss: 1.04802 | Running loss: 810.42949
+Epoch    17: reducing learning rate of group 0 to 1.0000e-07.
+tensor(0., device='cuda:0') tensor(2.9994, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 18 | Iteration: 0 | Classification loss: 544.22382 | Regression loss: 1.07604 | Running loss: 803.06478
+tensor(0., device='cuda:0') tensor(2.9992, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 18 | Iteration: 1 | Classification loss: 451.76678 | Regression loss: 0.98858 | Running loss: 793.59696
+tensor(0., device='cuda:0') tensor(2.9988, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 19 | Iteration: 0 | Classification loss: 282.33664 | Regression loss: 1.07044 | Running loss: 780.17091
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 19 | Iteration: 1 | Classification loss: 1137.17908 | Regression loss: 1.02908 | Running loss: 789.35135
+
+
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 21 | Iteration: 0 | Classification loss: 1128.45837 | Regression loss: 1.08448 | Running loss: 797.85614
+tensor(0., device='cuda:0') tensor(2.9995, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 21 | Iteration: 1 | Classification loss: 605.52698 | Regression loss: 1.07803 | Running loss: 793.19148
+Epoch    21: reducing learning rate of group 0 to 1.0000e-08.
+tensor(0., device='cuda:0') tensor(2.9995, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 22 | Iteration: 0 | Classification loss: 636.72607 | Regression loss: 1.04820 | Running loss: 789.49107
+tensor(0., device='cuda:0') tensor(2.9995, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 22 | Iteration: 1 | Classification loss: 546.44037 | Regression loss: 1.02708 | Running loss: 783.86261
+tensor(0., device='cuda:0') tensor(2.9998, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 23 | Iteration: 0 | Classification loss: 1267.84265 | Regression loss: 1.13435 | Running loss: 794.88794
+tensor(0., device='cuda:0') tensor(2.9990, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 23 | Iteration: 1 | Classification loss: 360.09003 | Regression loss: 0.97718 | Running loss: 785.24748
+tensor(0., device='cuda:0') tensor(2.9996, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 24 | Iteration: 0 | Classification loss: 995.61371 | Regression loss: 1.01667 | Running loss: 789.84276
+tensor(0., device='cuda:0') tensor(2.9996, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 24 | Iteration: 1 | Classification loss: 813.67334 | Regression loss: 0.97027 | Running loss: 790.37044
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 25 | Iteration: 0 | Classification loss: 1085.52954 | Regression loss: 0.98414 | Running loss: 796.54009
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 25 | Iteration: 1 | Classification loss: 798.91425 | Regression loss: 0.86379 | Running loss: 796.60617
+tensor(0., device='cuda:0') tensor(2.9998, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 26 | Iteration: 0 | Classification loss: 1470.41125 | Regression loss: 0.91531 | Running loss: 810.10058
+
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 27 | Iteration: 0 | Classification loss: 1135.95337 | Regression loss: 1.00971 | Running loss: 816.50965
+
+
+
+
+
+tensor(0., device='cuda:0') tensor(2.9981, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 30 | Iteration: 0 | Classification loss: 198.95393 | Regression loss: 1.03760 | Running loss: 804.65353
+tensor(0., device='cuda:0') tensor(2.9996, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 30 | Iteration: 1 | Classification loss: 599.67419 | Regression loss: 0.81522 | Running loss: 800.80137
+tensor(0., device='cuda:0') tensor(2.9998, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 31 | Iteration: 0 | Classification loss: 1120.96057 | Regression loss: 0.93559 | Running loss: 806.74757
+tensor(0., device='cuda:0') tensor(2.9998, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 31 | Iteration: 1 | Classification loss: 1582.10388 | Regression loss: 0.66741 | Running loss: 820.85709
+
+tensor(0., device='cuda:0') tensor(2.9994, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 32 | Iteration: 1 | Classification loss: 586.45459 | Regression loss: 0.83563 | Running loss: 816.68626
+tensor(0., device='cuda:0') tensor(2.9991, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 33 | Iteration: 0 | Classification loss: 384.41992 | Regression loss: 1.05431 | Running loss: 809.12113
+tensor(0., device='cuda:0') tensor(2.9994, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 33 | Iteration: 1 | Classification loss: 524.61823 | Regression loss: 1.02766 | Running loss: 804.23363
+tensor(0., device='cuda:0') tensor(2.9998, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 34 | Iteration: 0 | Classification loss: 1365.13342 | Regression loss: 0.95682 | Running loss: 813.75662
+tensor(0., device='cuda:0') tensor(2.9995, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 34 | Iteration: 1 | Classification loss: 585.58160 | Regression loss: 1.06249 | Running loss: 809.97141
+tensor(0., device='cuda:0') tensor(2.9994, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 35 | Iteration: 0 | Classification loss: 601.69794 | Regression loss: 1.00983 | Running loss: 806.57365
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 35 | Iteration: 1 | Classification loss: 833.29315 | Regression loss: 0.83712 | Running loss: 807.01811
+tensor(0., device='cuda:0') tensor(2.9983, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 36 | Iteration: 0 | Classification loss: 213.10811 | Regression loss: 0.98086 | Running loss: 797.60654
+tensor(0., device='cuda:0') tensor(2.9996, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 36 | Iteration: 1 | Classification loss: 539.48529 | Regression loss: 0.91860 | Running loss: 793.58774
+tensor(0., device='cuda:0') tensor(2.9998, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 37 | Iteration: 0 | Classification loss: 1238.55261 | Regression loss: 0.92006 | Running loss: 800.44751
+tensor(0., device='cuda:0') tensor(2.9995, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 37 | Iteration: 1 | Classification loss: 537.97772 | Regression loss: 0.99545 | Running loss: 796.48578
+tensor(0., device='cuda:0') tensor(2.9999, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 38 | Iteration: 0 | Classification loss: 1653.40051 | Regression loss: 1.09475 | Running loss: 809.29189
+tensor(0., device='cuda:0') tensor(2.9998, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 38 | Iteration: 1 | Classification loss: 1614.68652 | Regression loss: 0.84978 | Running loss: 821.14843
+tensor(0., device='cuda:0') tensor(2.9993, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 39 | Iteration: 0 | Classification loss: 485.65964 | Regression loss: 1.03812 | Running loss: 816.30131
+
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 40 | Iteration: 0 | Classification loss: 987.08087 | Regression loss: 1.09551 | Running loss: 818.75667
+
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 41 | Iteration: 0 | Classification loss: 1029.84375 | Regression loss: 1.06121 | Running loss: 821.74468
+tensor(0., device='cuda:0') tensor(2.9998, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 41 | Iteration: 1 | Classification loss: 2099.92871 | Regression loss: 0.65593 | Running loss: 839.50634
+tensor(0., device='cuda:0') tensor(2.9996, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 42 | Iteration: 0 | Classification loss: 804.01678 | Regression loss: 0.97586 | Running loss: 839.03355
+
+tensor(0., device='cuda:0') tensor(2.9992, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 43 | Iteration: 0 | Classification loss: 366.62708 | Regression loss: 0.99833 | Running loss: 832.66317
+tensor(0., device='cuda:0') tensor(2.9995, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 43 | Iteration: 1 | Classification loss: 624.67059 | Regression loss: 1.02236 | Running loss: 829.90357
+tensor(0., device='cuda:0') tensor(2.9996, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 44 | Iteration: 0 | Classification loss: 878.54565 | Regression loss: 1.08553 | Running loss: 830.55788
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 44 | Iteration: 1 | Classification loss: 937.84088 | Regression loss: 1.02355 | Running loss: 831.96446
+tensor(0., device='cuda:0') tensor(2.9996, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 45 | Iteration: 0 | Classification loss: 934.96423 | Regression loss: 0.74393 | Running loss: 833.29451
+tensor(0., device='cuda:0') tensor(2.9992, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 45 | Iteration: 1 | Classification loss: 452.33258 | Regression loss: 0.97015 | Running loss: 828.48448
+tensor(0., device='cuda:0') tensor(2.9993, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 46 | Iteration: 0 | Classification loss: 536.42786 | Regression loss: 0.94297 | Running loss: 824.84556
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 46 | Iteration: 1 | Classification loss: 887.74896 | Regression loss: 0.99441 | Running loss: 825.63443
+tensor(0., device='cuda:0') tensor(2.9995, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 47 | Iteration: 0 | Classification loss: 522.27844 | Regression loss: 0.95486 | Running loss: 821.94661
+tensor(0., device='cuda:0') tensor(2.9998, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 47 | Iteration: 1 | Classification loss: 1727.47473 | Regression loss: 0.91105 | Running loss: 832.86756
+
+tensor(0., device='cuda:0') tensor(2.9993, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 48 | Iteration: 1 | Classification loss: 504.33643 | Regression loss: 1.05684 | Running loss: 828.96906
+tensor(0., device='cuda:0') tensor(2.9996, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 49 | Iteration: 0 | Classification loss: 563.72577 | Regression loss: 1.01811 | Running loss: 825.86053
+
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 50 | Iteration: 0 | Classification loss: 855.99866 | Regression loss: 0.90420 | Running loss: 826.22148
+tensor(0., device='cuda:0') tensor(2.9996, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 50 | Iteration: 1 | Classification loss: 653.99158 | Regression loss: 1.11693 | Running loss: 824.25467
+tensor(0., device='cuda:0') tensor(2.9991, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 51 | Iteration: 0 | Classification loss: 357.12860 | Regression loss: 1.12552 | Running loss: 818.95921
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 51 | Iteration: 1 | Classification loss: 957.11554 | Regression loss: 0.89497 | Running loss: 820.52158
+tensor(0., device='cuda:0') tensor(2.9999, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 52 | Iteration: 0 | Classification loss: 2222.42847 | Regression loss: 0.90997 | Running loss: 836.10843
+
+tensor(0., device='cuda:0') tensor(2.9988, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 53 | Iteration: 0 | Classification loss: 291.42770 | Regression loss: 1.08101 | Running loss: 830.13481
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 53 | Iteration: 1 | Classification loss: 905.14606 | Regression loss: 0.99988 | Running loss: 830.96102
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 54 | Iteration: 0 | Classification loss: 779.97388 | Regression loss: 1.09841 | Running loss: 830.42458
+tensor(0., device='cuda:0') tensor(2.9996, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 54 | Iteration: 1 | Classification loss: 764.48206 | Regression loss: 1.03700 | Running loss: 829.73409
+tensor(0., device='cuda:0') tensor(2.9998, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 55 | Iteration: 0 | Classification loss: 1221.22754 | Regression loss: 1.04634 | Running loss: 833.86609
+tensor(0., device='cuda:0') tensor(2.9993, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 55 | Iteration: 1 | Classification loss: 427.14841 | Regression loss: 1.02553 | Running loss: 829.64013
+tensor(0., device='cuda:0') tensor(2.9996, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 56 | Iteration: 0 | Classification loss: 779.38531 | Regression loss: 0.95003 | Running loss: 829.13184
+tensor(0., device='cuda:0') tensor(2.9994, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 56 | Iteration: 1 | Classification loss: 462.28052 | Regression loss: 1.03253 | Running loss: 825.39899
+
+
+tensor(0., device='cuda:0') tensor(2.9996, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 58 | Iteration: 0 | Classification loss: 812.55322 | Regression loss: 1.04641 | Running loss: 825.27981
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 58 | Iteration: 1 | Classification loss: 817.57416 | Regression loss: 0.89431 | Running loss: 825.21169
+tensor(0., device='cuda:0') tensor(2.9995, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 59 | Iteration: 0 | Classification loss: 608.67987 | Regression loss: 1.02419 | Running loss: 823.07795
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 59 | Iteration: 1 | Classification loss: 1037.87781 | Regression loss: 1.03064 | Running loss: 825.19394
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 60 | Iteration: 0 | Classification loss: 1008.04034 | Regression loss: 0.90201 | Running loss: 826.97790
+tensor(0., device='cuda:0') tensor(2.9992, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 60 | Iteration: 1 | Classification loss: 290.83575 | Regression loss: 1.05871 | Running loss: 821.83287
+tensor(0., device='cuda:0') tensor(2.9995, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 61 | Iteration: 0 | Classification loss: 568.24597 | Regression loss: 1.08151 | Running loss: 819.42806
+tensor(0., device='cuda:0') tensor(2.9987, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 61 | Iteration: 1 | Classification loss: 285.03714 | Regression loss: 1.01495 | Running loss: 814.39621
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 62 | Iteration: 0 | Classification loss: 1023.51703 | Regression loss: 1.07718 | Running loss: 816.36068
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 62 | Iteration: 1 | Classification loss: 978.37341 | Regression loss: 1.10582 | Running loss: 817.87103
+tensor(0., device='cuda:0') tensor(2.9992, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 63 | Iteration: 0 | Classification loss: 437.99850 | Regression loss: 1.03336 | Running loss: 814.39544
+tensor(0., device='cuda:0') tensor(2.9993, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 63 | Iteration: 1 | Classification loss: 504.82999 | Regression loss: 0.89643 | Running loss: 811.58936
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 64 | Iteration: 0 | Classification loss: 1195.60779 | Regression loss: 0.92258 | Running loss: 815.05730
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 64 | Iteration: 1 | Classification loss: 1141.79565 | Regression loss: 0.99801 | Running loss: 817.98352
+tensor(0., device='cuda:0') tensor(2.9995, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 65 | Iteration: 0 | Classification loss: 575.58557 | Regression loss: 1.01241 | Running loss: 815.84736
+tensor(0., device='cuda:0') tensor(2.9991, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 65 | Iteration: 1 | Classification loss: 390.04431 | Regression loss: 0.89858 | Running loss: 812.12013
+
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 66 | Iteration: 1 | Classification loss: 1009.78235 | Regression loss: 1.04258 | Running loss: 813.84800
+tensor(0., device='cuda:0') tensor(2.9998, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 67 | Iteration: 0 | Classification loss: 1137.93054 | Regression loss: 1.01174 | Running loss: 816.65053
+tensor(0., device='cuda:0') tensor(2.9995, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 67 | Iteration: 1 | Classification loss: 624.83350 | Regression loss: 1.01762 | Running loss: 815.01977
+tensor(0., device='cuda:0') tensor(2.9998, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 68 | Iteration: 0 | Classification loss: 1228.16675 | Regression loss: 1.00199 | Running loss: 818.52951
+tensor(0., device='cuda:0') tensor(2.9998, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 68 | Iteration: 1 | Classification loss: 1293.80884 | Regression loss: 0.99632 | Running loss: 822.53182
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 69 | Iteration: 0 | Classification loss: 1056.89087 | Regression loss: 1.03504 | Running loss: 824.49344
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 69 | Iteration: 1 | Classification loss: 874.73297 | Regression loss: 0.99065 | Running loss: 824.91683
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 70 | Iteration: 0 | Classification loss: 862.43231 | Regression loss: 0.99888 | Running loss: 825.23252
+tensor(0., device='cuda:0') tensor(2.9992, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 70 | Iteration: 1 | Classification loss: 330.18207 | Regression loss: 0.98462 | Running loss: 821.21573
+tensor(0., device='cuda:0') tensor(2.9995, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 71 | Iteration: 0 | Classification loss: 682.13361 | Regression loss: 1.01904 | Running loss: 820.10232
+
+
+tensor(0., device='cuda:0') tensor(2.9999, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 72 | Iteration: 1 | Classification loss: 3898.80420 | Regression loss: 0.54629 | Running loss: 844.73630
+tensor(0., device='cuda:0') tensor(2.9995, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 73 | Iteration: 0 | Classification loss: 702.31354 | Regression loss: 0.97298 | Running loss: 843.61368
+tensor(0., device='cuda:0') tensor(2.9990, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 73 | Iteration: 1 | Classification loss: 374.45728 | Regression loss: 1.09934 | Running loss: 839.92820
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 74 | Iteration: 0 | Classification loss: 1093.20349 | Regression loss: 0.97879 | Running loss: 841.91456
+tensor(0., device='cuda:0') tensor(2.9996, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 74 | Iteration: 1 | Classification loss: 758.99939 | Regression loss: 0.90867 | Running loss: 841.27885
+
+tensor(0., device='cuda:0') tensor(2.9991, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 75 | Iteration: 1 | Classification loss: 361.14435 | Regression loss: 1.04435 | Running loss: 837.59354
+tensor(0., device='cuda:0') tensor(2.9996, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 76 | Iteration: 0 | Classification loss: 676.91901 | Regression loss: 1.00892 | Running loss: 836.37472
+
+
+
+tensor(0., device='cuda:0') tensor(2.9991, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 78 | Iteration: 0 | Classification loss: 269.97070 | Regression loss: 0.97623 | Running loss: 832.09117
+tensor(0., device='cuda:0') tensor(2.9992, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 78 | Iteration: 1 | Classification loss: 464.80444 | Regression loss: 0.93831 | Running loss: 829.33667
+tensor(0., device='cuda:0') tensor(2.9992, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 79 | Iteration: 0 | Classification loss: 405.23846 | Regression loss: 1.02552 | Running loss: 826.17941
+tensor(0., device='cuda:0') tensor(2.9996, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 79 | Iteration: 1 | Classification loss: 762.41125 | Regression loss: 1.16290 | Running loss: 825.71567
+tensor(0., device='cuda:0') tensor(2.9996, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 80 | Iteration: 0 | Classification loss: 793.86084 | Regression loss: 1.01108 | Running loss: 825.48888
+tensor(0., device='cuda:0') tensor(2.9998, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 80 | Iteration: 1 | Classification loss: 1335.04272 | Regression loss: 0.75075 | Running loss: 829.21373
+
+
+tensor(0., device='cuda:0') tensor(2.9998, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 82 | Iteration: 0 | Classification loss: 1264.32617 | Regression loss: 1.18686 | Running loss: 832.37532
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 82 | Iteration: 1 | Classification loss: 985.92169 | Regression loss: 1.13480 | Running loss: 833.48813
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 83 | Iteration: 0 | Classification loss: 1040.98987 | Regression loss: 0.98825 | Running loss: 834.97735
+tensor(0., device='cuda:0') tensor(2.9999, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 83 | Iteration: 1 | Classification loss: 1733.21509 | Regression loss: 1.00278 | Running loss: 841.35494
+tensor(0., device='cuda:0') tensor(2.9995, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 84 | Iteration: 0 | Classification loss: 579.51123 | Regression loss: 1.07480 | Running loss: 839.51854
+
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 85 | Iteration: 0 | Classification loss: 882.44873 | Regression loss: 1.13188 | Running loss: 839.82667
+tensor(0., device='cuda:0') tensor(2.9992, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 85 | Iteration: 1 | Classification loss: 314.54416 | Regression loss: 0.99776 | Running loss: 836.18580
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 86 | Iteration: 0 | Classification loss: 981.31061 | Regression loss: 1.00698 | Running loss: 837.19361
+
+tensor(0., device='cuda:0') tensor(2.9996, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 87 | Iteration: 0 | Classification loss: 658.50958 | Regression loss: 1.04915 | Running loss: 835.97693
+tensor(0., device='cuda:0') tensor(2.9993, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 87 | Iteration: 1 | Classification loss: 426.13754 | Regression loss: 1.02008 | Running loss: 833.19584
+tensor(0., device='cuda:0') tensor(2.9998, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 88 | Iteration: 0 | Classification loss: 1627.22192 | Regression loss: 0.89861 | Running loss: 838.56696
+
+tensor(0., device='cuda:0') tensor(2.9996, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 89 | Iteration: 0 | Classification loss: 681.78259 | Regression loss: 1.02099 | Running loss: 837.52157
+
+
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 90 | Iteration: 1 | Classification loss: 1151.49609 | Regression loss: 1.08299 | Running loss: 839.62195
+
+tensor(0., device='cuda:0') tensor(2.9985, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 91 | Iteration: 1 | Classification loss: 204.34332 | Regression loss: 1.01473 | Running loss: 835.42153
+tensor(0., device='cuda:0') tensor(2.9999, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 92 | Iteration: 0 | Classification loss: 2257.35327 | Regression loss: 0.65265 | Running loss: 844.78063
+tensor(0., device='cuda:0') tensor(2.9993, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 92 | Iteration: 1 | Classification loss: 410.04077 | Regression loss: 0.98353 | Running loss: 841.94562
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 93 | Iteration: 0 | Classification loss: 692.34680 | Regression loss: 0.75903 | Running loss: 840.97913
+tensor(0., device='cuda:0') tensor(2.9995, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 93 | Iteration: 1 | Classification loss: 525.96765 | Regression loss: 1.00674 | Running loss: 838.95329
+
+tensor(0., device='cuda:0') tensor(2.9990, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 94 | Iteration: 1 | Classification loss: 302.50253 | Regression loss: 1.15600 | Running loss: 835.52192
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 95 | Iteration: 0 | Classification loss: 942.10077 | Regression loss: 1.06184 | Running loss: 836.20753
+tensor(0., device='cuda:0') tensor(2.9995, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 95 | Iteration: 1 | Classification loss: 611.28650 | Regression loss: 0.99532 | Running loss: 834.79028
+tensor(0., device='cuda:0') tensor(2.9998, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 96 | Iteration: 0 | Classification loss: 1297.25562 | Regression loss: 0.89774 | Running loss: 837.70451
+tensor(0., device='cuda:0') tensor(2.9996, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 96 | Iteration: 1 | Classification loss: 820.22437 | Regression loss: 0.84584 | Running loss: 837.60054
+tensor(0., device='cuda:0') tensor(2.9983, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 97 | Iteration: 0 | Classification loss: 162.44431 | Regression loss: 0.96721 | Running loss: 833.41304
+
+
+tensor(0., device='cuda:0') tensor(2.9984, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 98 | Iteration: 1 | Classification loss: 212.51758 | Regression loss: 1.01403 | Running loss: 829.58661
+tensor(0., device='cuda:0') tensor(2.9996, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 99 | Iteration: 0 | Classification loss: 584.63110 | Regression loss: 1.10832 | Running loss: 828.09061
+tensor(0., device='cuda:0') tensor(2.9998, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 99 | Iteration: 1 | Classification loss: 1947.70776 | Regression loss: 0.98811 | Running loss: 834.92357

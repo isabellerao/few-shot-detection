@@ -1,0 +1,138 @@
+-------------------------------------------------------------------------------
+There are messages associated with the following module(s):
+-------------------------------------------------------------------------------
+
+anaconda/5.0.0-py36:
+    This module is a contribution from the Poldrack Lab. For questions
+    and support, please see https://github.com/poldracklab/lmod_modules
+
+-------------------------------------------------------------------------------
+
+loading annotations into memory...
+Done (t=14.46s)
+creating index...
+index created!
+CUDA available: True
+Num training images: 118287
+p_y tensor([[0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500]], device='cuda:0',
+       grad_fn=<SliceBackward>)
+prob tensor(217061.5000, device='cuda:0', grad_fn=<SumBackward0>)
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 0 | Iteration: 0 | Classification loss: 972.77307 | Regression loss: 1.03536 | Running loss: 973.80841
+p_y tensor([[0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500]], device='cuda:0',
+       grad_fn=<SliceBackward>)
+prob tensor(246897., device='cuda:0', grad_fn=<SumBackward0>)
+tensor(0., device='cuda:0') tensor(2.9994, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 0 | Iteration: 1 | Classification loss: 581.65552 | Regression loss: 1.03538 | Running loss: 778.24966
+
+p_y tensor([[0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500]], device='cuda:0',
+       grad_fn=<SliceBackward>)
+prob tensor(217081., device='cuda:0', grad_fn=<SumBackward0>)
+tensor(0., device='cuda:0') tensor(2.9998, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 1 | Iteration: 1 | Classification loss: 1343.47400 | Regression loss: 0.85951 | Running loss: 966.94427
+p_y tensor([[0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500]], device='cuda:0',
+       grad_fn=<SliceBackward>)
+prob tensor(166714.5000, device='cuda:0', grad_fn=<SumBackward0>)
+tensor(0., device='cuda:0') tensor(2.9984, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 2 | Iteration: 0 | Classification loss: 221.09251 | Regression loss: 1.07367 | Running loss: 780.74975
+p_y tensor([[0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500]], device='cuda:0',
+       grad_fn=<SliceBackward>)
+prob tensor(231974.2500, device='cuda:0', grad_fn=<SumBackward0>)
+tensor(0., device='cuda:0') tensor(2.9997, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 2 | Iteration: 1 | Classification loss: 999.39972 | Regression loss: 0.90935 | Running loss: 824.66162
+p_y tensor([[0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500]], device='cuda:0',
+       grad_fn=<SliceBackward>)
+prob tensor(217014.7500, device='cuda:0', grad_fn=<SumBackward0>)
+tensor(0., device='cuda:0') tensor(2.9994, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 3 | Iteration: 0 | Classification loss: 661.03931 | Regression loss: 1.08069 | Running loss: 797.57135
+
+p_y tensor([[0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500]], device='cuda:0',
+       grad_fn=<SliceBackward>)
+prob tensor(217001.2500, device='cuda:0', grad_fn=<SumBackward0>)
+tensor(0., device='cuda:0') tensor(2.9994, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 4 | Iteration: 0 | Classification loss: 600.05505 | Regression loss: 0.94718 | Running loss: 769.49005
+p_y tensor([[0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500],
+        [0.2500, 0.2500, 0.2500, 0.2500]], device='cuda:0',
+       grad_fn=<SliceBackward>)
+prob tensor(217015., device='cuda:0', grad_fn=<SumBackward0>)
+tensor(0., device='cuda:0') tensor(2.9995, device='cuda:0')
+accuracy tensor(0., device='cuda:0')
+Epoch: 4 | Iteration: 1 | Classification loss: 631.44122 | Regression loss: 1.03633 | Running loss: 752.36349
